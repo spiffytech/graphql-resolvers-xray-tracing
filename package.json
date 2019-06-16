@@ -32,7 +32,7 @@
   "license": "MIT",
   "devDependencies": {
     "@lifeomic/eslint-plugin-node": "^1.1.2",
-    "@types/graphql": "^14.0.7",
+    "@types/graphql": "^14.2.1",
     "ava": "^1.1.0",
     "aws-xray-sdk-core": "^2.0.0",
     "coveralls": "^3.0.1",
